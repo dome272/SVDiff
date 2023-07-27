@@ -6,7 +6,7 @@ Using this method to finetune SDXL on my lovely dog:
 <img src="https://github.com/dome272/SVDiff/assets/61938694/1ae1fd17-5796-4ee4-b659-a95e367d7ed2" width="300" height="300">
 
 The method can achieve results like this after ~1000 steps:
-<img src="https://github.com/dome272/SVDiff/assets/61938694/437dbbfa-57c2-4b59-93bb-f1a6d6e59f3a" height="300">
+<img src="https://github.com/dome272/SVDiff/assets/61938694/437dbbfa-57c2-4b59-93bb-f1a6d6e59f3a">
 
 ### Supported Models
 - [x] Stable Diffusion XL
